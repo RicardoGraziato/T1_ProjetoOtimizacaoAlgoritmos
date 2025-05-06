@@ -1,4 +1,4 @@
-# T1_ProjetoOtimizacaoSoftware
+# T1 de Projeto e Otimizacao de Algoritmos
 
 • Este trabalho consiste no estudo, análise e implementação de
 algoritmos baseados em programação dinâmica.
